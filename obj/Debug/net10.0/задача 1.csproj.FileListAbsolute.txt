@@ -1,0 +1,14 @@
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\bin\Debug\net10.0\задача 1.exe
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\bin\Debug\net10.0\задача 1.deps.json
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\bin\Debug\net10.0\задача 1.runtimeconfig.json
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\bin\Debug\net10.0\задача 1.dll
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\bin\Debug\net10.0\задача 1.pdb
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\задача 1.AssemblyInfoInputs.cache
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\задача 1.AssemblyInfo.cs
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\задача 1.csproj.CoreCompileInputs.cache
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\задача 1.dll
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\refint\задача 1.dll
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\задача 1.pdb
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\задача 1.genruntimeconfig.cache
+C:\Users\dedvn\OneDrive\Desktop\ипа\ghju\задача 1\obj\Debug\net10.0\ref\задача 1.dll
